@@ -79,10 +79,6 @@ The program continues making guesses until the correct number is guessed with th
 
 This project aims to find the number with the highest number of divisors among 20 input numbers.The program then prints the number with the maximum divisors and its count as the output.
 
-### Prime or not
-
-This Python program reads a positive integer and determines if it is a prime number. If the input number is prime, the program outputs "Prime". Otherwise, it outputs "Not Prime".
-
 ### Print Equation in Order
 
 This Python program takes an input equation and rearranges the numbers in the equation to ensure they are in non-descending order. The numbers involved in the equation are limited to 1, 2, and 3 for simplicity.
